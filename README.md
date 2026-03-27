@@ -18,6 +18,7 @@ L’objectif de cette plateforme est de simplifier la recherche, la publication 
 ```bash
 git clone https://github.com/votre-username/go-service.git
 cd go-service
+```
 
 ## Utilisation
 Pour utiliser ce projet, vous devez disposer d’un environnement de développement local avec les outils suivants :
@@ -35,8 +36,8 @@ Pour utiliser ce projet, vous devez disposer d’un environnement de développem
 2. Accéder à l’application via :
 ```bash
 http://localhost/go-service
+```
 ## Contribution
-
 Nous remercions toutes les personnes ayant contribué à la réalisation de ce projet.
 
 ### Contributeurs
@@ -47,15 +48,13 @@ Nous remercions toutes les personnes ayant contribué à la réalisation de ce p
 - [raef](https://github.com/Roufa7)
 - [baha](https://github.com/baha-zouari)
 ### Comment contribuer ?
-
 Si vous souhaitez contribuer à ce projet, suivez les étapes suivantes :
-
 1. Forker le repository  
-
 2. Cloner votre fork :
 ```bash
 git clone https://github.com/votre-username/go-service.git
 cd go-service
+```
 ## Licence
 Ce projet est développé dans un cadre académique à l’Esprit School of Engineering.
 
